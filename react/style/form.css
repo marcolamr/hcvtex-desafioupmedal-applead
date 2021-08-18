@@ -1,0 +1,12 @@
+.leadForm {
+  color: white;
+  padding: 20px;
+  width: 80%;
+  max-width: 450px;
+}
+
+.leadForm input {
+  padding: 15px;
+  height: 50px;
+  border-radius: 4px;
+}
